@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/desktop-tutorial/未命名/111612138-R-2024/lab0.R",
     "project_path": "lab0.R",
     "type": "r_source",
-    "hash": "3255056801",
+    "hash": "1725988726",
     "contents": "",
     "dirty": false,
     "created": 1725616053237.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,32",
+        "cursorPosition": "1,19",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725616062,
+    "lastKnownWriteTime": 1725616178,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725616062335,
+    "last_content_update": 1725616178491,
     "read_only": false,
     "read_only_alternatives": []
 }
